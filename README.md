@@ -1,4 +1,4 @@
-# Guessing Game (Bash)
+# Guessing Game 
 
 A fun Bash script that challenges users to guess how many **regular files** (including hidden ones) are in the current directory.
 
