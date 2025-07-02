@@ -1,0 +1,10 @@
+
+---
+
+## 📄 `.gitignore` (optional)
+
+If you want to ignore temporary or backup files:
+
+```bash
+*~
+*.swp
