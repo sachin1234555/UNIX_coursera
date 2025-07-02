@@ -1,5 +1,11 @@
-# Guessing Game
+# 🕹️ Guessing Game (Bash)
 
-Date: [Current Date and Time]
+A fun Bash script that challenges users to guess how many **regular files** (including hidden ones) are in the current directory.
 
-Number of lines in guessinggame.sh: 22
+---
+
+## How to Run
+
+### Option 1: Use Bash directly
+```bash
+bash guessinggame.sh
